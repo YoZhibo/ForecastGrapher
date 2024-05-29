@@ -18,7 +18,7 @@ Paper Link: [ForecastGrapher: Redefining Multivariate Time Series Forecasting wi
 4. Utilize node projection for forecasting.
 
 <div align=center>
-<img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/overall_model.jpg" width='60%'> 
+<img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/overall_model.jpg" width='65%'> 
 </div>
 
 
@@ -31,7 +31,7 @@ Paper Link: [ForecastGrapher: Redefining Multivariate Time Series Forecasting wi
   
 
   <div align=center>
-  <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/GFC.jpg" width='50%'> 
+  <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/GFC.jpg" width='55%'> 
   </div>
 
   
@@ -42,13 +42,13 @@ Paper Link: [ForecastGrapher: Redefining Multivariate Time Series Forecasting wi
   - Comparison with Benchmarks (Avg)
 
     <div align=center>
-    <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/main_results.jpg" width='85%'> 
+    <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/main_results.jpg" width='90%'> 
     </div>
 
   - Comparison with advanced GNNs and Naive Method (Avg)
 
     <div align=center>
-    <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/main_results_gnn.jpg" width='85%'> 
+    <img src="https://github.com/YoZhibo/ForecastGrapher/blob/main/pic/main_results_gnn.jpg" width='90%'> 
     </div>
 
   
